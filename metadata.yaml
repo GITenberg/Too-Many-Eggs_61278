@@ -1,0 +1,27 @@
+_repo: Too-Many-Eggs_61278
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Neville, Kris
+    alias: Neville, Kris Ottman
+    birthdate: 1925
+    deathdate: 1980
+    gutenberg_agent_id: '25913'
+    url: http://www.gutenberg.org/2009/agents/25913
+    wikipedia: https://en.wikipedia.org/wiki/Kris_Ottman_Neville
+description: ''
+gutenberg_issued: '2020-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61278'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- GITenberg
+title: Too Many Eggs
+url: http://www.gutenberg.org/ebooks/61278
